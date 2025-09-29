@@ -1,5 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
+  "theme": "almond",
   "name": "Starter Kit",
   "logo": {
     "dark": "/logo/dark.svg",
